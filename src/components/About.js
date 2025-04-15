@@ -1,4 +1,6 @@
 import React from "react";
+import "https://i.imgur.com/mV8PQxj.gif"
+import { image } from "../data/user";
 
 function About() {
   return (
